@@ -1,0 +1,222 @@
+[
+  {
+    "oris_id": 469,
+    "name": "Martin Drake",
+    "state": "CO",
+    "county": "El Paso",
+    "capacity_mw": 250,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 1,
+    "year_online": 1954
+  },
+  {
+    "oris_id": 1281,
+    "name": "Limestone",
+    "state": "TX",
+    "county": "McLennan",
+    "capacity_mw": 2268,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1986
+  },
+  {
+    "oris_id": 1301,
+    "name": "Four Corners",
+    "state": "NM",
+    "county": "San Juan",
+    "capacity_mw": 2080,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 4,
+    "year_online": 1970
+  },
+  {
+    "oris_id": 1307,
+    "name": "South Texas Project",
+    "state": "TX",
+    "county": "Matagorda",
+    "capacity_mw": 2700,
+    "fuel_type": "Gas",
+    "prime_mover": "CC",
+    "num_units": 2,
+    "year_online": 2008
+  },
+  {
+    "oris_id": 2168,
+    "name": "Huntington Beach",
+    "state": "CA",
+    "county": "Orange",
+    "capacity_mw": 1840,
+    "fuel_type": "Oil",
+    "prime_mover": "ST",
+    "num_units": 4,
+    "year_online": 1982
+  },
+  {
+    "oris_id": 2497,
+    "name": "Ravenswood",
+    "state": "NY",
+    "county": "Queens",
+    "capacity_mw": 2480,
+    "fuel_type": "Gas",
+    "prime_mover": "GT",
+    "num_units": 8,
+    "year_online": 1965
+  },
+  {
+    "oris_id": 3179,
+    "name": "Plant Bowen",
+    "state": "GA",
+    "county": "Bartow",
+    "capacity_mw": 3160,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 4,
+    "year_online": 1971
+  },
+  {
+    "oris_id": 6257,
+    "name": "Plant Scherer",
+    "state": "GA",
+    "county": "Monroe",
+    "capacity_mw": 3520,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 4,
+    "year_online": 1982
+  },
+  {
+    "oris_id": 6316,
+    "name": "Myersville Power Plant",
+    "state": "VA",
+    "county": "Fairfax",
+    "capacity_mw": 1020,
+    "fuel_type": "Gas",
+    "prime_mover": "CC",
+    "num_units": 2,
+    "year_online": 2000
+  },
+  {
+    "oris_id": 7320,
+    "name": "Klamath Cogeneration",
+    "state": "CA",
+    "county": "Kern",
+    "capacity_mw": 280,
+    "fuel_type": "Gas",
+    "prime_mover": "GT",
+    "num_units": 2,
+    "year_online": 1990
+  },
+  {
+    "oris_id": 8825,
+    "name": "PSNH Merrimack Station",
+    "state": "NH",
+    "county": "Hillsborough",
+    "capacity_mw": 812,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1974
+  },
+  {
+    "oris_id": 10688,
+    "name": "James M. Barry",
+    "state": "AL",
+    "county": "Baldwin",
+    "capacity_mw": 1299,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1989
+  },
+  {
+    "oris_id": 10720,
+    "name": "Virgil C. Summer Nuclear",
+    "state": "SC",
+    "county": "Fairfield",
+    "capacity_mw": 1170,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 1,
+    "year_online": 1984
+  },
+  {
+    "oris_id": 40118,
+    "name": "Craig Station",
+    "state": "CO",
+    "county": "Moffat",
+    "capacity_mw": 1344,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1984
+  },
+  {
+    "oris_id": 50096,
+    "name": "Pearly Beach Power Station",
+    "state": "SC",
+    "county": "Beaufort",
+    "capacity_mw": 940,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1977
+  },
+  {
+    "oris_id": 50099,
+    "name": "Caithness Oneta",
+    "state": "OK",
+    "county": "Payne",
+    "capacity_mw": 1200,
+    "fuel_type": "Gas",
+    "prime_mover": "GT",
+    "num_units": 4,
+    "year_online": 1999
+  },
+  {
+    "oris_id": 50227,
+    "name": "Comanche Station",
+    "state": "CO",
+    "county": "Pueblo",
+    "capacity_mw": 1600,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 2,
+    "year_online": 1994
+  },
+  {
+    "oris_id": 50341,
+    "name": "Crandall Canyon",
+    "state": "UT",
+    "county": "Carbon",
+    "capacity_mw": 435,
+    "fuel_type": "Coal",
+    "prime_mover": "ST",
+    "num_units": 1,
+    "year_online": 2002
+  },
+  {
+    "oris_id": 50501,
+    "name": "Riverside Transmission Expansion",
+    "state": "AZ",
+    "county": "Pinal",
+    "capacity_mw": 1320,
+    "fuel_type": "Gas",
+    "prime_mover": "CC",
+    "num_units": 2,
+    "year_online": 2006
+  },
+  {
+    "oris_id": 55965,
+    "name": "West County Energy Center",
+    "state": "FL",
+    "county": "Hendry",
+    "capacity_mw": 3750,
+    "fuel_type": "Gas",
+    "prime_mover": "CC",
+    "num_units": 3,
+    "year_online": 2003
+  }
+]
